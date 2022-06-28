@@ -1,0 +1,27 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cornsilk;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+}
+
+.bg-personal{
+    background-color: rgb(238, 225, 174);
+}
+
+.navbar-brand{
+    color: grey;
+}
+
+h1, section{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
